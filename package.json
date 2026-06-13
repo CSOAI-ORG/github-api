@@ -1,5 +1,5 @@
 {
-  "name": "@csgaglobal/github-api",
+  "name": "@meok-ai-labs/github-api",
   "version": "1.0.0",
   "description": "GitHub API integration for repository management, issue tracking, PR workflows, and CI/CD pipeline monitoring.",
   "main": "dist/index.js",
@@ -20,10 +20,10 @@
   "devDependencies": {
     "typescript": "^5.7.3"
   },
-  "author": "CSGA Global",
+  "author": "MEOK Labs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/csga-global/mcp-servers",
+    "url": "https://github.com/meok-ai/mcp-servers",
     "directory": "packages/github-api"
   },
   "keywords": [
